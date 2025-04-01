@@ -1,6 +1,27 @@
-# Django多租戶工具箱 (Django Tenants ToolBox)
+# Django Tenants Toolbox
 
-A Windows-based GUI helper for Django Tenants. No coding required. Easily run migrate_schemas, create superusers, inspect tenant status, and more.
+**🇹🇼 This toolbox is designed for Traditional Chinese-speaking developers. All interface, menu options, and prompts are in Traditional Chinese.**
+
+Django Tenants Toolbox is a **Windows-based GUI helper** for [django-tenants](https://github.com/django-tenants/django-tenants) developers.  
+No coding required — it helps you easily run `migrate_schemas`, create superusers, inspect tenant status, manage static files, and handle local DNS settings, all through a simple menu-based interface.
+
+### 💡 Features
+
+- Run Django server (`runserver`)
+- Enter Django shell
+- Perform shared and tenant-specific `migrate_schemas`
+- Create superusers per tenant
+- Collect static files
+- Check tenant status and configuration
+- Manage local DNS records for multi-domain testing
+- Launch virtualenv terminal easily
+
+> 🧭 This tool is primarily intended for **Windows** users developing **multi-tenant Django applications** who prefer a fast, no-code command execution environment in Traditional Chinese.
+
+📘 **For full instructions and usage (in Traditional Chinese), please scroll down.**
+
+//---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
 
 一款專為Django多租戶應用開發者設計的便捷工具箱。該工具旨在簡化多租戶應用的日常開發和管理工作，無需編程經驗即可使用。
 
