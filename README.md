@@ -1,5 +1,7 @@
 # Django多租戶工具箱 (Django Tenants ToolBox)
 
+A Windows-based GUI helper for Django Tenants. No coding required. Easily run migrate_schemas, create superusers, inspect tenant status, and more.
+
 一款專為Django多租戶應用開發者設計的便捷工具箱。該工具旨在簡化多租戶應用的日常開發和管理工作，無需編程經驗即可使用。
 
 ![Django多租戶工具箱](https://img.shields.io/badge/Django-多租戶工具箱-brightgreen)
